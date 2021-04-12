@@ -18,6 +18,10 @@ function App() {
           Learn React
         </a>
       </header>
+
+      <div className="App-body">
+        Added for fun
+      </div>
     </div>
   );
 }

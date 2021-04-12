@@ -17,12 +17,15 @@ function App() {
         >
           Learn React
         </a>
+        <header className="App-body">
+            Added for fun
+        </header>
       </header>
 
-      <div className="App-body">
-        Added for fun
-      </div>
     </div>
+
+
+
   );
 }
 
